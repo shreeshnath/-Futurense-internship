@@ -1,18 +1,19 @@
+# python-dictionary-codes-07-03-2024
+python dictionary codes and answers ..
 
-python basic codes and answers ..
-This is the first week of our internship with futurense technologies,here we were asked to write the python codes to the following questions:
-Python program to add two numbers Maximum of two numbers in Python
+This is the second week of our internship with futurense technologies,here we were asked to write the python codes to the following
+questions:
+Q1} Write a python program to flatten tuple of list to tuple.
 
-Python Program for factorial of a number
+Q2) Python program to convert Set into Tuple and Tuple into Set.
 
-Python Program for simple interest Python Program for compound interest
+Q3}Convert List of Dictionary to Tuple list Python.
 
-Python Program to check Armstrong Number
+Q4}Python | Sort tuple list by Nth element of tuple.
 
-Python Program for Program to find area of a circle
+Q5}Python Program to find tuple indices from other tuple list.
 
-Python program to print all Prime numbers in an Interval
+Q6)Convert Dictionary Value list to Dictionary List Python.
 
-Python program to check whether a number is Prime or not
 
-Python Program for n-th Fibonacci number
+these all questions were related to the lists,dictionarys and tuples ..
